@@ -1,33 +1,3 @@
-##################################################################### #
-# CSCB58 Winter 2022 Assembly Final Project
-# University of Toronto, Scarborough
-#
-# Student: Aditya Sandeep Kulkarni,  1006906680, kulka141, aditya.kulkarni@mail.utoronto.ca
-# Bitmap Display Configuration:
-# - Unit width in pixels: 8 
-# - Unit height in pixels: 8 
-# - Display width in pixels: 512 
-# - Display height in pixels: 512 # - Base Address for Display: 0x10008000 ($gp)
-#
-# Which milestones have been reached in this submission?
-# - Milestone 3
-#
-# Which approved features have been implemented for milestone 3?
-# 1. Start screen
-# 2. Win condition + sound effects
-# 3. Fail condition + sound effects
-# 4. 3 Levels
-# 5. 3 Pickup effects - Curse, Gold, Platinum
-# 6. Score bar
-#
-# Link to video demonstration for final submission:
-# - https://www.youtube.com/watch?v=uYD3s5O02XM
-# Are you OK with us sharing the video with people outside course staff?
-# - no
-# Any additional information that the TA needs to know:
-# - I have implemented the changes requested in the checkpoint demo and wish to receive the grade for the same as suggested.
-# #####################################################################
-
 # Constants
 .eqv  BASE_ADDRESS 0x10008000
 .eqv  WAIT_TIME 100
