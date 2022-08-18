@@ -18,3 +18,10 @@ Can be run on MARS simulator version 4.5
 6. Score bar
 
 Link to video demonstration for final submission: - https://www.youtube.com/watch?v=uYD3s5O02XM
+
+## Gameplay Images:
+![Start Screen Image](https://github.com/Aditya-k-23/Jumper-Puzzler/blob/main/Start%20Screen.png)
+![Level 1 Image](https://github.com/Aditya-k-23/Jumper-Puzzler/blob/main/Level%201.png)
+![Level 2 Image](https://github.com/Aditya-k-23/Jumper-Puzzler/blob/main/Level%202.png)
+![Level 3 Image](https://github.com/Aditya-k-23/Jumper-Puzzler/blob/main/Level%203.png)
+![End Screen Image](https://github.com/Aditya-k-23/Jumper-Puzzler/blob/main/End%20screen.png)
